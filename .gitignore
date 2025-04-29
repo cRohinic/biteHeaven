@@ -1,0 +1,15 @@
+# node_modules
+**/node_modules
+
+# Vite or React builds
+**/dist
+**/build
+
+# Logs
+*.log
+
+# Environment files
+*.env
+
+# VS Code settings
+.vscode
